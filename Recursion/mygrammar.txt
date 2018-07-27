@@ -1,0 +1,8 @@
+<Combo1>::=<drink> <meal>
+<Combo2>::=<snack> <drink>|<dessert>
+<Combo3>::=<dessert>|<drink> <drink>
+<Combo4>::=<meal> <drink> <dessert>|<meal> <drink> <snack>
+<drink>::=Coke|Sprite|Fanta|Lemonade|Water
+<meal>::=burger|chicken|ribs|salad|wrap
+<snack>::=apples|pretzels|oranges|candy
+<dessert>::=pie|ice-cream|cookie|brownie

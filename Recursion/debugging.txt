@@ -1,0 +1,1 @@
+One error was creating the recursive function for grammar solver. I got confused and was returning a vector in the helpor method and in my output I was getting single string, but in walking through the recursive funxtion I realized I instead just needed to add to a string in my recursive function. 
